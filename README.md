@@ -16,17 +16,18 @@ Here are some ideas to get you started:
 
 # Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m **Martin**, a Senior Software Architect & Developer based in Munich, Germany.
+<p>I’m **Martin**, a Senior Software Architect & Tech Lead based in Munich, Germany.
+As a former founder, I combine deep technical expertise with an entrepreneurial mindset to build scalable products that solve real business problems.</p>
 
-I specialize in building robust systems and have a strong background in e-commerce and video streaming architectures.
+🚀 **Currently working on:**<br>
+I'm building a **fitness app** based on **Django** and **React**.
 
-<br>
+🛠 **My favorite tools:**<br>
+* **Tech Stack:** Python, PHP, React
+* **AI Tools:** Claude Code, Gemini
 
-🚀 **Currently working on:**
-I'm building a **fitness app** using **Django** and **React**.
-
-🛠 **My favorite tools:**
-I leverage AI to boost performance and quality. My daily drivers are **Claude Code** and **Gemini** as well as Python, React and PHP.
-
-📫 **How to reach me:**
+📫 **How to reach me:**<br>
 Let's connect on [LinkedIn](https://www.linkedin.com/in/martin-lorenz-bayer).
+
+---
+*Focused on Python, TypeScript, and scalable architecture.*
