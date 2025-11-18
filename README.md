@@ -30,4 +30,3 @@ I'm building a **fitness app** based on **Django** and **React**.
 Let's connect on [LinkedIn](https://www.linkedin.com/in/martin-lorenz-bayer).
 
 ---
-*Focused on Python, TypeScript, and scalable architecture.*
