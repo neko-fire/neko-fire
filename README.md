@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 As a former founder, I combine deep technical expertise with an entrepreneurial mindset to build scalable products that solve real business problems.</p>
 
 🚀 **Currently working on:**<br>
-I'm building a **fitness app** based on **Django** and **React**.
+I'm building a **fitness app** based on **FastApi** and **React**.
 
 🛠 **My favorite tools:**<br>
 * **Tech Stack:** Python, PHP, React
