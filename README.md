@@ -23,7 +23,7 @@ As a former founder, I combine deep technical expertise with an entrepreneurial 
 I'm building a **fitness app** based on **FastApi** and **React**.
 
 🛠 **My favorite tools:**<br>
-* **Tech Stack:** Python, PHP, React
+* **Tech Stack:** Python, PHP, Typescript
 * **AI Tools:** Claude Code, Gemini
 
 📫 **How to reach me:**<br>
